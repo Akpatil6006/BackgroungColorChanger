@@ -1,0 +1,41 @@
+.text-center {
+  text-align: center;
+}
+
+.color {
+  height: 100px;
+  width: 100px;
+  border: 2px solid;
+}
+
+.color1 {
+  background-color: gray;
+}
+
+.color2 {
+  background-color: orange;
+}
+
+.color3 {
+  background-color: blue;
+}
+
+.color4 {
+  background-color: yellow;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.colorUpper {
+  margin-bottom: 5px;
+}
+
+.para {
+  font-size: 20px;
+  font-weight: bold;
+}
